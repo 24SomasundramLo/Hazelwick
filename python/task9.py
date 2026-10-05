@@ -1,0 +1,26 @@
+num_1 = float(input("Enter a number: "))
+one = num_1 * 1
+two = num_1 * 2
+three = num_1 * 3
+four = num_1 * 4
+five = num_1 * 5
+six = num_1 * 6
+seven = num_1 * 7
+eight = num_1 * 8
+nine = num_1 * 9
+ten = num_1 * 10
+eleven = num_1 * 11
+twelve = num_1 * 12
+print(f"The multiplication table for {num_1} is:")
+print(f"{num_1} x 1 = {one}")
+print(f"{num_1} x 2 = {two}")
+print(f"{num_1} x 3 = {three}")
+print(f"{num_1} x 4 = {four}")
+print(f"{num_1} x 5 = {five}")
+print(f"{num_1} x 6 = {six}")
+print(f"{num_1} x 7 = {seven}")
+print(f"{num_1} x 8 = {eight}")
+print(f"{num_1} x 9 = {nine}")
+print(f"{num_1} x 10 = {ten}")
+print(f"{num_1} x 11 = {eleven}")
+print(f"{num_1} x 12 = {twelve}")

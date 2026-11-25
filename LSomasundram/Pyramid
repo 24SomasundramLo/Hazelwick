@@ -1,0 +1,5 @@
+rows = 100
+for i in range(rows):
+    spaces = " " * (rows - i - 1)
+    letters = "A" * (2 * i + 1)
+    print(spaces + letters)
